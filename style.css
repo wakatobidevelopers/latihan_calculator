@@ -34,7 +34,6 @@ input{
    text-align: right;
    font-size: 28px;
    font-weight: bold;
-   pointer-events: none;
    padding-right: 12px;
 }
 
@@ -50,12 +49,12 @@ input{
    background-color: rgb(238, 237, 237);
 }
 
-.reset{
+#reset{
    background-color: rgb(255, 0, 0);
    color: #ffff;
 }
 
-.equals{
+#equals{
    background-color: rgb(55, 0, 255);
    color: #ffff;
 }
